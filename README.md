@@ -1,5 +1,5 @@
-# Image-Filter
-Apply LPF/HPF filters to 2 Images (square256.raw, car.raw)
+## Image-Filter
+Applying LPF/HPF filters to 2 Images (square256.raw, car.raw)
 Q1: Code for applying FFT to Images
 Q2: Fourier spectrums for Images
     a. Spectrum into a set of rings
